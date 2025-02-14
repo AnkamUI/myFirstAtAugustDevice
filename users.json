@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin@gmail.com",
+      "password": "Admin@123"
+    },
+    {
+      "id": 2,
+      "username": "user@gmail.com",
+      "password": "User@123"
+    }
+  ],
+  "students": [
+    {
+      "name": "student",
+      "id": 27
+    },
+    {
+      "name": "sai kumar",
+      "id": 29
+    },
+    {
+      "name": "bunny",
+      "id": 30
+    },
+    {
+      "name": "test",
+      "id": 31
+    },
+    {
+      "name": "mmm",
+      "id": 32
+    },
+    {
+      "name": "sss",
+      "id": 33
+    }
+  ]
+}
